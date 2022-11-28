@@ -1,20 +1,18 @@
-# C Programming Language
+## Python - Hello World
 
-
-| `File 1 - 0-preprocessor` | A script that runs a C file through the preprocessor and save the result into another file.|
-
-| `File 2 - 1-compiler` | A script that compiles a C file but does not link.|
-
-| `File 3 - 2-assembler` | A script that generates the assembly code of a C code and save it in an output file.|
-
-| `File 4 - 3-name` | A script that compiles a C file and creates an executable named `cisfun`|
-
-| `File 5 - 4-puts.c` | A C program that prints exactly `"Programming is like building a multilingual puzzle` followed by a new line.|
-
-| `File 6 - 5-printf.c` | A C program that prints exactly `with proper grammar, but the outcome is a piece of art,` followed by a new line.|
-
-| `File 7 - 6-size.c` | A C program that prints the size of various types on the computer it is compiled and run on.|
-
-| `File 8 - 100-intel` | A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.|
-
-| `File 9 - 101-quote.c` | A C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19` followed by a new line, to the standard error.|
+| Project name | Description |
+| ------------ | ----------- |
+| `File 0 - 0-run` | A Shell script that runs a Python script. |
+| `File 1 - 1-run_inline` | A Shell script that runs Python code. |
+| `File 2 - 2-print.py` | A Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. |
+| `File 3 - 3-print_number.py` |  A Python script that prints the integer stored in the variable `number`, followed by `Battery street`, followed by a new line. |
+| `File 4 - 4-print_float.py` | A Python script that prints the float stored in the variable `number` with a precision of 2 digits. |
+| `File 5 - 5-print_string.py` | A Python script that prints 3 times a string stored in the variable `str`, followed by its first 9 characters. |
+| `File 6 - 6-concat.py` | A Python script that prints `Welcome to Holberton School!`. |
+| `File 7 - 7-edges.py` | copy, cut & paste. |
+| `File 8 - 8-concat_edges.py` | A Python script that prints `object-oriented programming with Python`, followed by a new line. |
+| `File 9 - 9-easter_egg.py` | A Python script that prints “The Zen of Python”, by TimPeters, followed by a new line. |
+| `File 10 - 10-check_cycle.c, lists.h` | A function in C that checks if a singly linked list has a cycle in it. |
+| `File 11 - 100-write.py` | A Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line. |
+| `File 12 - 101-compile` | A script that compiles a Python script file. |
+| `File 13 - 102-magic_calculation.py` | A Python function `def magic_calculation(a, b):`. |
