@@ -1,18 +1,21 @@
-## Python - Hello World
+## Python - If/Else & Loop functions
 
 | Project name | Description |
 | ------------ | ----------- |
-| `File 0 - 0-run` | A Shell script that runs a Python script. |
-| `File 1 - 1-run_inline` | A Shell script that runs Python code. |
-| `File 2 - 2-print.py` | A Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. |
-| `File 3 - 3-print_number.py` |  A Python script that prints the integer stored in the variable `number`, followed by `Battery street`, followed by a new line. |
-| `File 4 - 4-print_float.py` | A Python script that prints the float stored in the variable `number` with a precision of 2 digits. |
-| `File 5 - 5-print_string.py` | A Python script that prints 3 times a string stored in the variable `str`, followed by its first 9 characters. |
-| `File 6 - 6-concat.py` | A Python script that prints `Welcome to Holberton School!`. |
-| `File 7 - 7-edges.py` | copy, cut & paste. |
-| `File 8 - 8-concat_edges.py` | A Python script that prints `object-oriented programming with Python`, followed by a new line. |
-| `File 9 - 9-easter_egg.py` | A Python script that prints “The Zen of Python”, by TimPeters, followed by a new line. |
-| `File 10 - 10-check_cycle.c, lists.h` | A function in C that checks if a singly linked list has a cycle in it. |
-| `File 11 - 100-write.py` | A Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line. |
-| `File 12 - 101-compile` | A script that compiles a Python script file. |
-| `File 13 - 102-magic_calculation.py` | A Python function `def magic_calculation(a, b):`. |
+| `File 0 - 0-positive_or_negative.py` | A Python script that Prints if a number is positive, zero or negative. |
+| `File 1 - 1-last_digit.py` | A Python script that Prints the last digit of a random number. |
+| `File 2 - 2-print_alphabet.py` | A Python script that Prints the ASCII alphabet in lowercase. |
+| `File 3 - 3-print_alphabt.py` |  A Python script that Prints the ASCII alphabet in lowercase, except q and e. |
+| `File 4 - 4-print_hexa.py` | A Python script that Prints all numbers from 0 to 98 in decimal and hexadecimal. |
+| `File 5 - 5-print_comb2.py` | A Python script that Prints numbers from 0 to 99, separated by , |
+| `File 6 - 6-print_comb3.py` | A Python script that Prints all possible combinations of two digits, separated by , |
+| `File 7 - 7-islower.py` | A Python script that Checks for lowercase character. |
+| `File 8 - 8-uppercase.py` | A Python script that Prints a string in uppercase. |
+| `File 9 - 9-print_last_digit.py` | A Python script that Prints the last digit of a passed number. |
+| `File 10 - 10-add.py` | A Python script that Adds two integers and returns the result. |
+| `File 11 - 11-pow.py` | A Python script that Computes a to the power of b and return the value. |
+| `File 12 - 12-fizzbuzz.py` | A script that Prints FizzBuzz pattern. |
+| `File 13 - 13-insert_number.c, lists.h` | A C function that Inserts a node in a linked list according to a given index. |
+| `File 14 - 100-print_tebahpla.py` | A Python function that Prints the ASCII aplhabet in reverse, in uppercase and lowercase |
+| `File 15 - 101-remove_char_at.py` | A Python function that Creates a copy of the string, removing the character at the position n. |
+| `File 16 - 102-magic_calculation.py` | A Python Function that does exactly the same as a given Python bytecode. |
