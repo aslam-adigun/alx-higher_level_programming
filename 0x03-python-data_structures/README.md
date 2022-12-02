@@ -1,4 +1,4 @@
-## Python - Import modules
+## Python - Data Structures: Lists, Tuples
 
 | Project name | Description |
 | ------------ | ----------- |
