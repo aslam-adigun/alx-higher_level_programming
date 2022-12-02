@@ -2,13 +2,18 @@
 
 | Project name | Description |
 | ------------ | ----------- |
-| `File 0 - 0-add.py` | A Python program that imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3` |
-| `File 1 - 1-calculation.py` | A Python program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result. |
-| `File 2 - 2-args.py` | A Python program that prints the number of and the list of its arguments. |
-| `File 3 - 3-infinite_add.py` |  A Python program that prints the result of the addition of all arguments. |
-| `File 4 - 4-hidden_discovery.py` | A Python program that prints all the names defined by the compiled module `hidden_4.pyc` (please download it locally). |
-| `File 5 - 5-variable_load.py` | A Python program that imports the variable a from the file `variable_load_5.py` and prints its value. |
-| `File 6 - 100-my_calculator.py` | A Python program that imports all functions from the file `calculator_1.py` and handles basic operations. |
-| `File 7 - 101-easy_print.py` | A Python program that prints `#pythoniscool`, followed by a new line, in the standard output. |
-| `File 8 - 102-magic_calculation.py` | A Python Function that does exactly the same as a given Python bytecode. |
-| `File 9 - 103-fast_alphabet.py` | A Python program that prints the alphabet in uppercase, followed by a new line. |
+| `File 0 - 0-print_list_integer.py` | A Python program that prints all integers of a list. |
+| `File 1 - 1-element_at.py` | A Python program that retrieves an element from a list like in C. |
+| `File 2 - 2-replace_in_list.py` | A Python program that replaces an element of a list at a specific position. |
+| `File 3 - 3-print_reversed_list_integer.py` |  A Python program that prints all integers of a list, in reverse order. |
+| `File 4 - 4-new_in_list.py` | A Python program that replaces an element in a list at a specific position without modifying the original list. |
+| `File 5 - 5-no_c.py` | A Python program that removes all characters `c` and `C` from a string. |
+| `File 6 - 6-print_matrix_integer.py` | A Python program that prints a matrix of integers. |
+| `File 7 - 7-add_tuple.py` | A Python program that adds 2 tuples. |
+| `File 8 - 8-multiple_returns.py` | A Python program that returns a tuple with the length of a string and its first character. |
+| `File 9 - 9-max_integer.py` | A Python program that finds the biggest integer of a list. |
+| `File 10 - 10-divisible_by_2.py` | A Python program that finds all multiples of 2 in a list. |
+| `File 11 - 11-delete_at.py` | A Python program that deletes the item at a specific position in a list. |
+| `File 12 - 12-switch.py` | A Python program that Switches value of `a` and `b`. |
+| `File 13 - 13-is_palindrome.c` | A C program that Checks if a singly linked list is a palindrome. |
+| `File 14 - 100-print_python_list_info.c` | A C program that prints some basic info about Python lists. |
