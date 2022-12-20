@@ -13,3 +13,4 @@ All of the following folders are projects done during the studies:
 | [`0x03-python-data_structures`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x03-python-data_structures) | It aims to learn about data structures in **python language** |
 | [`0x04-python-more_data_structures`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x04-python-more_data_structures) | It aims to learn about data structures in **python language** |
 | [`0x05-python-exceptions`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x05-python-exceptions) | It aims to learn about exceptions in **python language** |
+| [`0x06-python-classes`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x06-python-classes) | It aims to learn about classes in **python language** |
