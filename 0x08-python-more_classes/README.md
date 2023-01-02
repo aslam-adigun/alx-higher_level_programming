@@ -1,14 +1,16 @@
-# Test-driven development
+# 0x08. Python - More Classes and Objects
 =========================
 ## Files
 | Filename | Description |
 | -------- | ----------- |
-| `0-add_integer.py` | Function that adds two integers (Doctest on `tests/0-add_integer.txt`) |
-| `2-matrix_divided.py` | Function that divides all elemtns of a matrix (Doctest on `tests/2-matrix_divided.txt`) |
-| `3-say_my_name.py` | Function that prints `My name is <first name> <last name>` (Doctest on `tests/3-say_my_name.txt`) |
-| `4-print_square.py` | Function that prints a square with the character `#` (Doctest on `tests/4-print_sqaure.txt`) |
-| `5-text_indentation.py` | Function that prints a text with 2 new lines after each of these `.`, `?` and `:` (Doctest on `tests/5-text_indentation.txt`) |
-| `tests/6-max_integer_test.py` | Unittests for the function `def max_integer(list=[])` |
-| `100-matrix_mul.py` | Function that multiplies 2 matrices (Doctest on `tests/100-matrix_mul.txt`) |
-| `101-lazy_matrix_mul.py` | Function that multiplies 2 matrices by using the module **NumPy** (Doctest on `tests/101-lazy_matrix_mul.txt`) |
-| `102-python.c` | Function that prints Python strings |
+| `0-rectangle.py` | Empty class `Rectangle` that defines a rectangle |
+| `1-rectangle.py` | Class `Rectangle` that defines a rectangle by its `width` and `height` |
+| `2-rectangle.py` | Class `Rectangle` that has `area` and `permiter` methods |
+| `3-rectangle.py` | Class `Rectangle` that counts with a string representation |
+| `4-rectangle.py` | Class `Rectangle` that count with an official representation |
+| `5-rectangle.py` | Class `Rectangle` that prints a message when an instance is deleted |
+| `6-rectangle.py` | Class `Rectangle` with a public class attribute that counts the number of instances |
+| `7-rectangle.py` | Class `Rectangle` with a public class attribute to print a specific symbol |
+| `8-rectangle.py` | Class `Rectangle` with a method to compare instance's size |
+| `9-rectangle.py` | Class `Rectangle` with a class method that returns a new instance|
+| `101-nqueens.py` | `Backtracking` algorithm that solves the N-Queen puzzle |
