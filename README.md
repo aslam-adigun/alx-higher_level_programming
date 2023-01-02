@@ -15,3 +15,4 @@ All of the following folders are projects done during the studies:
 | [`0x05-python-exceptions`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x05-python-exceptions) | It aims to learn about exceptions in **python language** |
 | [`0x06-python-classes`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x06-python-classes) | It aims to learn about classes in **python language** |
 | [`0x07-python-test_driven_development`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x07-python-test_driven_development) | It aims to learn about test driven environment in **python language** |
+| [`0x08-python-more_classes`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x08-python-more_classes) | It aims to learn about objects and classes in **python language** |
