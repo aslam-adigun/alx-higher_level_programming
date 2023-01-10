@@ -17,3 +17,5 @@ All of the following folders are projects done during the studies:
 | [`0x07-python-test_driven_development`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x07-python-test_driven_development) | It aims to learn about test driven environment in **python language** |
 | [`0x08-python-more_classes`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x08-python-more_classes) | It aims to learn about objects and classes in **python language** |
 | [`0x09-python-everything_is_object`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x09-python-everything_is_object) | It aims to learn about objects in **python language** |
+| [`0x0A-python-inheritance`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0A-python-inheritance) | It aims to learn about inheritance in **python language** |
+| [`0x0B-python-input_output`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0B-python-input_output) | It aims to learn about input & output in **python language** |
