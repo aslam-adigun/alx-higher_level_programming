@@ -19,3 +19,4 @@ All of the following folders are projects done during the studies:
 | [`0x09-python-everything_is_object`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x09-python-everything_is_object) | It aims to learn about objects in **python language** |
 | [`0x0A-python-inheritance`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0A-python-inheritance) | It aims to learn about inheritance in **python language** |
 | [`0x0B-python-input_output`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0B-python-input_output) | It aims to learn about input & output in **python language** |
+| [`0x0C-python-almost_a_circle`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle) | It's a review of the **python language** |
