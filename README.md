@@ -20,3 +20,5 @@ All of the following folders are projects done during the studies:
 | [`0x0A-python-inheritance`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0A-python-inheritance) | It aims to learn about inheritance in **python language** |
 | [`0x0B-python-input_output`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0B-python-input_output) | It aims to learn about input & output in **python language** |
 | [`0x0C-python-almost_a_circle`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle) | It's a review of the **python language** |
+| [`0x0D-SQL_introduction`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0D-SQL_introduction) | It aims to learn about **structured query language** |
+
