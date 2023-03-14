@@ -23,3 +23,4 @@ All of the following folders are projects done during the studies:
 | [`0x0D-SQL_introduction`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0D-SQL_introduction) | It aims to learn about **structured query language** |
 | [`0x0E-SQL_more_queries`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries) | It aims to learn about queries in **structured query language** |
 | [`0x12-javascript-warm_up`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x12-javascript-warm_up) | It aims to learn about **javascript language** |
+| [`0x13-javascript_objects_scopes_closures`](https://github.com/aslam-adigun/alx-higher_level_programming/tree/master/0x13-javascript_objects_scopes_closures) | It aims to learn about **Objects, Scopes & Closures** in **javascript language** |
