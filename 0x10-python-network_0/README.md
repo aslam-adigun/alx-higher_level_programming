@@ -1,4 +1,4 @@
-# 0x13 - Javascript Objects Scopes Closures
+# 0x10 - Python - Network #0
 =========================
 ## Files
 
