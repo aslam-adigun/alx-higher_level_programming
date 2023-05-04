@@ -1,4 +1,4 @@
-# 0x14 - Javascript Web Scrapping
+# 0x15 - Javascript Web JQuery
 =========================
 ## Files
 
